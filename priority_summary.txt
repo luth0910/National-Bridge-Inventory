@@ -1,0 +1,51 @@
+
+LAPORAN ANALISIS 100,000 JEMBATAN PRIORITAS
+==========================================
+
+1. STATISTIK UMUM
+-----------------
+Total Jembatan: 52,130
+Rata-rata Usia: 51.7 tahun
+Rata-rata Daily Traffic: 2,605
+Total Estimasi Biaya: $4,652,530.00
+
+2. DISTRIBUSI KONDISI
+--------------------
+CAT10 - Bridge Condition
+Fair    44342
+Poor     7575
+Good      213
+
+3. TOP 10 COUNTY
+---------------
+3 - County Name
+Fulton County        1584
+Bibb County           996
+Muscogee County       962
+Laurens County        864
+Meriwether County     825
+Thomas County         784
+Brooks County         703
+Colquitt County       700
+Mitchell County       688
+Franklin County       685
+
+4. DISTRIBUSI USIA
+-----------------
+Minimum: 0 tahun
+Maximum: 91 tahun
+Median: 49 tahun
+
+5. PRIORITAS TERTINGGI (Top 10 Jembatan)
+--------------------------------------
+        3 - County Name CAT10 - Bridge Condition  Bridge Age (yr)  29 - Average Daily Traffic  priority_score
+67907     Sumter County                     Poor             91.0                     13200.0        0.712600
+57018     Sumter County                     Poor             90.0                     13200.0        0.709600
+4515      Fulton County                     Poor             85.0                     16807.0        0.705421
+46956     Sumter County                     Poor             89.0                     12500.0        0.704500
+39436     Sumter County                     Poor             88.0                     12080.0        0.700240
+23344     Sumter County                     Poor             87.0                     12080.0        0.697240
+14245     Sumter County                     Poor             86.0                     12080.0        0.694240
+6515    Muscogee County                     Poor             86.0                      9500.0        0.686500
+204604    Fulton County                     Poor             88.0                      6720.0        0.684160
+184191    Fulton County                     Poor             87.0                      6720.0        0.681160
